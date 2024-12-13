@@ -1,2 +1,2 @@
 # computer_vision
-I will pushing my works on computer vision
+Computer vision projects
